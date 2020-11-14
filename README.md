@@ -1,2 +1,2 @@
 # Jedatz0
-![](https://komarev.com/ghpvc/?username=tranduyquang2205&color=purple)
+![](https://komarev.com/ghpvc/?username=tranduyquang2205)
